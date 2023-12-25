@@ -43,7 +43,7 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 ```
 ## Output:
 
-![WhatsApp Image 2023-12-25 at 16 09 49_3e35c54f](https://github.com/23008344/Multivariate-Linear-Regression/assets/145742655/c94fa00f-3e38-4946-b5b7-254669a25e5b)
+![image](https://github.com/23008344/Multivariate-Linear-Regression/assets/145742655/966f32fa-7463-4a88-9e1a-dc436a9e0150)
 
 
 
